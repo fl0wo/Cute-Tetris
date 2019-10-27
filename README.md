@@ -1,2 +1,4 @@
-# tetris_fsharp
-F# tetris
+# Tetris Console made in F#
+
+Run with : fsharpi main.fsx
+
