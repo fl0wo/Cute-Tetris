@@ -253,4 +253,4 @@ gravity()
 UtilsView.printMappa (mappa.getIstanceWith blocco)
 
 // NO END RN
-System.Threading.Thread.Sleep(10000000);
+System.Threading.Thread.Sleep(-1);
